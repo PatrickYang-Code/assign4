@@ -28,6 +28,6 @@ with tabs[2]:
 
 # Tap 4: Prints joke 
 number = 67 
-if number == 67 
+if number == 67: 
     print ("haha funny")
 
